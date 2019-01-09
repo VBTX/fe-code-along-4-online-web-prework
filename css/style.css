@@ -70,3 +70,9 @@ figcaption {
 #details a:active {
   color: red;
 }
+
+* {
+	-webkit-box-sizing:  border-box; 
+	-moz-box-sizing:  border-box;
+	box-sizing:  border-box;
+}
